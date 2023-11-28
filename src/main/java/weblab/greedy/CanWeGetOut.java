@@ -2,19 +2,20 @@ package weblab.greedy;
 
 import java.util.*;
 
-class Node {
-
-    List<Node> outgoingEdges;
-
-    boolean marked;
-
-    public Node() {
-        this.outgoingEdges = new ArrayList<>();
-        this.marked = false;
-    }
-}
-
 public class CanWeGetOut {
+
+    static class Node {
+
+        List<Node> outgoingEdges;
+
+        boolean marked;
+
+        public Node() {
+            this.outgoingEdges = new ArrayList<>();
+            this.marked = false;
+        }
+    }
+
     /**
      * @param nodes the nodes in the graph
      * @param s the starting node

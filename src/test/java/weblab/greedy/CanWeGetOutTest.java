@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
 
+import weblab.greedy.CanWeGetOut.*;
+
 class CanWeGetOutTest {
 
     @Test
