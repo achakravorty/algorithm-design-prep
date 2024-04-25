@@ -21,7 +21,7 @@ If you'd like to contribute to this collection by adding new problems or improvi
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE.md).
+This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
